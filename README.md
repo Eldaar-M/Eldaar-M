@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Привет! Я <a href="https://daniilshat.ru/" target="_blank">Eldar</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
-<!--
-**Eldaar-M/Eldaar-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ?‍? О себе
+Python Developer.
+Специализируюсь на Python и микросервисной архитектуре.
 
-Here are some ideas to get you started:
+## ? Текущие проекты
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ? Технический стек
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- FastAPI, Django
+- PostgreSQL
+- Docker
+- DevOps
+
+## ? Контакты
+- Email: emagomedow@yandex.ru
+- Telegram: @Nakomooto
